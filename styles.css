@@ -1,0 +1,38 @@
+div {
+  font-family: 'Koulen', cursive;
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  color: aliceblue;
+}
+
+body {
+  background-color: #343a40;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+.wiki {
+  font-family: 'Koulen', cursive;
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 900;
+  color: aliceblue;
+}
+
+.procedure {
+  font-family: 'Koulen', cursive;
+  font-family: 'Overpass', sans-serif;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 900;
+  color: aliceblue;
+}
